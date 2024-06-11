@@ -22,7 +22,25 @@ Below are some valuable resources and documentation to help you get acquainted w
 
 [ros 21 talks (recommended)](https://www.bilibili.com/video/BV1zt411G7Vn/?spm_id_from=333.337.search-card.all.click)
 
+**SLAM**
+
+[Gmapping](https://wiki.ros.org/gmapping)
+
+[Cartographer_ros](https://google-cartographer-ros.readthedocs.io/en/latest/)
+
+**Navgation**
+
+[Nav Stack](https://wiki.ros.org/navigation)
+
 ## :chart_with_upwards_trend: Progress
+
+**Omni_Robot_Platform**
+
+[RoboRTS-Base](https://github.com/RoboMaster/RoboRTS-Base)
+
+**Quadruped Robot**
+
+[Unitree Go1](https://github.com/unitreerobotics)
 
 ## :raising_hand: Contributing
 Please create a repo in our GitHub organization, naming your name + 'weekly report', then write an one-page learning note per week.
