@@ -5,7 +5,9 @@
 To participate in this project, it's recommended that you set up your environment with the following:
 
 Operating System: Ubuntu 20.04 LTS（compulsory）
+
 Framework Platform: ROS1 Noetic （compulsory）
+
 Simulation Platform: Gazebo （compulsory）
  
 ## :books: Documentation & Resources
@@ -14,6 +16,11 @@ Below are some valuable resources and documentation to help you get acquainted w
 **ROS**
 
 [ros-noetic (recommended)](https://www.ros.org/)
+
+[ROS by Example (reference)](https://repo.darmajaya.ac.id/4264/1/ROS%20by%20Example%20For%20ROS%20Indigo.%20Do-It-Yourself%20Guide%20to%20the%20Robot%20Operating%20System.%20Volume%201%20%28%20PDFDrive%20%29.pdf
+)
+
+[ros 21 talks (recommended)](https://www.bilibili.com/video/BV1zt411G7Vn/?spm_id_from=333.337.search-card.all.click)
 
 ## :chart_with_upwards_trend: Progress
 
