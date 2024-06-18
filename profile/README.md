@@ -1,5 +1,7 @@
 
 # Robotic Summer FURP at UNNC
+## Reminder:
+Please Do Not Upload Any Files Over 25 Mb!
 
 ## :gear: Basic Environment
 To participate in this project, it's recommended that you set up your environment with the following:
